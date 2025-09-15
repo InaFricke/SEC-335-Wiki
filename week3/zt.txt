@@ -1,0 +1,10 @@
+
+; <<>> DiG 9.20.4-4-Debian <<>> axfr @nsztm1.digi.ninja zonetransfers.me
+; (1 server found)
+;; global options: +cmd
+; Transfer failed.
+
+; <<>> DiG 9.20.4-4-Debian <<>> axfr @nsztm2.digi.ninja zonetransfers.me
+; (1 server found)
+;; global options: +cmd
+; Transfer failed.
